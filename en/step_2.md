@@ -5,6 +5,9 @@ Young people will need to draw somewhere - either on a seperate table, or move t
 - Gather any art or craft supplies you have at hand. 
 - A4 paper is fine, but if you have bigger then you can use it.
 
+ADD - can make the drawings at home in advance and have paretns send in
+ADD - can bring things in from home to base theme on
+
 You'll also need to test the file sharing process.
 
 --- task ---
