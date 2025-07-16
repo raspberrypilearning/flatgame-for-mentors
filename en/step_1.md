@@ -1,8 +1,6 @@
-## What you will make
-OR
-## What you will do - change meta if you use this
+## What your club will make
 
-A brief description - one or two sentences. 
+Flatgames are a cross between videogames and zines. They are a fun way to do hands-on crafting and then make a simple game with the artwork. 
 
 --- print-only ---
 ![ALT TEXT](images/IMAGE.png)
