@@ -27,6 +27,7 @@ For example:
 - Send them all to one machine via email. Then use a flash drive to distrubte to the creators machines
 - If creators are using tablets, they could take photos and use Scratch. So there is no need to share across devices.
 - If you have a server set up you could save photos to this
+--- /task ---
 
 Some simple ways to share files from mobile devices you could try are:
 
@@ -148,6 +149,8 @@ Download the images: Find the folder where you saved them. Download to your comp
 
 --- /collapse ---
 
+
+--- task ---
 Once you have all the photos transferred, have creators make a note of where they are stored.
 
 It's really important to test this, as file sharing is usually the trickiest part of making flatgame.
