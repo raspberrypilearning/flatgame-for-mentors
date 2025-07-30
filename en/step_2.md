@@ -1,27 +1,31 @@
-## Setting up 
+## Setting up
 
-Young people will need to draw somewhere - either on a seperate table, or move the comptuer to the side and draw there.
-
-- Gather any art or craft supplies you have at hand. 
-- A4 paper is fine, but if you have bigger then you can use it.
-
-ADD - can make the drawings at home in advance and have paretns send in
-ADD - can bring things in from home to base theme on
-
-You'll also need to test the file sharing process.
+Your creators will need digital images of objects and patterns they like, to upload to Scratch. These can be photographs or digital drawings made on a computer.
 
 --- task ---
-Take some test photos on a phone or device
+If you are planning this project in advance, you could pre-arrange for your creators to bring artwork to the club. They could:
+
+- make the drawings at home in advance and have parents send them in
+- bring things in from home to base theme on
+- bring photographs of objects and patterns in their home 
 --- /task ---
 
 --- task ---
 
+If you're doing the artwork in the session, creators will need materials and space to create - either on a seperate table, or move the comptuer to the side and invent there.
+
+- Gather any art or craft supplies you have at hand. 
+- A4 paper is fine, but bigger is better.
+
+--- /task --- 
+
+--- task ---
 Test out how to share photos by sending to with a device that creators will use via a method that works best for your club. 
 
 For example:
 - Create a google folder on both the device for taking photos and the creators machines. Save and download via google drive.
 - Send them all to one machine via email. Then use a flash drive to distrubte to the creators machines
-- If creators are using tablets, they could take photos and use Scratch. So there is no need to share accross devices.
+- If creators are using tablets, they could take photos and use Scratch. So there is no need to share across devices.
 - If you have a server set up you could save photos to this
 
 Some simple ways to share files from mobile devices you could try are:
@@ -144,7 +148,7 @@ Download the images: Find the folder where you saved them. Download to your comp
 
 --- /collapse ---
 
-Once you have your photos, make a note of where they are stored.
+Once you have all the photos transferred, have creators make a note of where they are stored.
 
 It's really important to test this, as file sharing is usually the trickiest part of making flatgame.
 --- /task ---
