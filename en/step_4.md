@@ -23,3 +23,18 @@ Encourage creators to take photos to add texture or layers to their flatgames. T
 
 GIF - taking photos
 --- /task ---
+
+### Using images on the website
+
+There are a range of images available for creators to upload into their projects in the project instructions. Creators can open the collapse by clicking on it, and then saving the images they like to their scratch folders. 
+
+--- task ---
+To use the images in the collapse, creators should right click (two-fingers on Mac) on the image they want to use and choose 'Save Image As'.
+![Context menu showing image options in a browser, with “Save Image As...” highlighted among choices like copy and search](images/saveas.png)
+--- /task ---
+
+--- task ---
+
+In the popup window, creators should choose the folder you want them to save the images to - something easy to get back to, like `Downloads`or `Documents` is good.
+![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)]
+--- /task ---
