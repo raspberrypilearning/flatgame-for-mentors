@@ -31,7 +31,7 @@ For example:
 
 Some simple ways to share files from mobile devices you could try are:
 
----- collapse ---
+--- collapse ---
 
 ---
 
