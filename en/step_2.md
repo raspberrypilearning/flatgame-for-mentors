@@ -65,7 +65,7 @@ Copy the photos: Select the images you want. Copy them (right-click > Copy or Ct
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -92,7 +92,7 @@ Accept on your computer: You may need to confirm the transfer or choose a locati
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
@@ -122,7 +122,7 @@ Download the images: Find the email. Download the attachments and save them to a
 
 --- /collapse ---
 
----- collapse ---
+--- collapse ---
 
 ---
 
