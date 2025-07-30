@@ -11,7 +11,7 @@ This will be the artwork used for the flatgame, so try to take picture in focus 
 --- task ---
 Help creators to take photos of thier designs with tablet or phone. If you have a webcam this could work too - and might be easier to get the images in the advice.
 
-Make sure there are no identifyable feature in the photos - such as photos of creators.
+Make sure there are no identifiable feature in the photos - such as photos of creators.
 --- /task ---
 
 --- task ---
@@ -38,3 +38,7 @@ To use the images in the collapse, creators should right click (two-fingers on M
 In the popup window, creators should choose the folder you want them to save the images to - something easy to get back to, like `Downloads`or `Documents` is good.
 ![Save dialogue window on macOS showing the filename "grass" being entered, with the Downloads folder selected as the destination.](images/popupsave.png)]
 --- /task ---
+
+### Painting your own artwork in the Scratch Paint Editor
+
+While it won't have the same collage effect or handmade feel, creators can paint their own artwork using the Scratch Paint editor for costumes and backdrops. 
