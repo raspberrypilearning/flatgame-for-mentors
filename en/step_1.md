@@ -1,40 +1,30 @@
 ## What your club will make
 
-Flatgames are a cross between videogames and zines. They are a fun way to do hands-on crafting and then make a simple game with the artwork. 
+They have very simple game controls - where a player moves around a screen to explore artwork, drawings and cut-out collages. 
 
---- print-only ---
-![ALT TEXT](images/IMAGE.png)
---- /print-only ---
-
---- no-print ---
-
-Editor embed 
-
---- /no-print ---
-
---- no-print ---
-Video embed
-
-<video width="640" height="360" controls>
-<source src="images/videoname.mp4" type="video/mp4">
-</video>
-
-Youtube embed 
-<html>
-<div style="position: relative; overflow: hidden; padding-top: 56.25%;">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/XXXXXXXXX?rel=0&cc_load_policy=1" allowfullscreen allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share">
-</iframe>
-</div><br>
-</html>
-
-Scratch embed
+Here is a flatgame about a beach:
 <div class="scratch-preview">
- <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/XXXXXXXXX/?autostart=false" frameborder="0"></iframe>
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1200050605/embed?autostart=false" frameborder="0"></iframe>
+</div>
+And a pencil case...
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1200050948/embed?autostart=false" frameborder="0"></iframe>
+</div>
+And one about a card game!
+<div class="scratch-preview">
+ <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/1200050338/embed?autostart=false" frameborder="0"></iframe>
 </div>
 
---- /no-print ---
+### What you'll need:
+To make a flatgame you start by crafting and making hand-drawn artwork for the game. 
 
-### You will need:
-- a
-- b
-- c
+You'll need: 
+🎨 drawing or crafting materials (pens, paper, scissors)
+📷 a phone or tablet to take photos
+👾 the Scratch [starter project](http://rpf.io/flatgame){:target="_blank"}
+
+### What you'll do
+The more technically complex parts of this project is the transfer of files from a digital mobile device like a phone or tablet to the computer where your creators are working. Several options are provided for this in the project. 
+
+### Did you know?
+The original flatgame was made by Llaura McGee who is a game designer at [Dreamfeel](https://dreamfeel.ie/){:target="_blank"}. They started making flatgames to make video games look arty!
